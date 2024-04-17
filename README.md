@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-[Link para o projeto](https://mini-page-omega.vercel.app/)
+[Link para o projeto](https://mini-page-xi.vercel.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
